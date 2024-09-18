@@ -16,3 +16,5 @@ You are developing an application that helps users manage and control various el
 - **LaptopAdapter**: An adapter for plugging a laptop into a standard power outlet. It adapts the Laptop to the `PowerOutlet` interface, translating `plugIn()` to `charge()`.
 - **RefrigeratorAdapter**: An adapter for plugging a refrigerator into a standard power outlet. It adapts the Refrigerator to the `PowerOutlet` interface, translating `plugIn()` to `startCooling()`.
 - **SmartphoneAdapter**: An adapter for plugging a smartphone charger into a standard power outlet. It adapts the SmartphoneCharger to the `PowerOutlet` interface, translating `plugIn()` to `chargePhone()`.
+
+![Blank diagram(5)](https://github.com/user-attachments/assets/13cbdfb2-7085-4d22-82e8-329530d91b84)
